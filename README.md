@@ -1,15 +1,9 @@
-React Ui-Material Admin Template
+React Ui-Material
 ================================
 
-This is a simple responsive admin template using [React](https://facebook.github.io/react/) and [Material-UI](http://www.material-ui.com/) components.
+This is a simple Shoes website using [React](https://facebook.github.io/react/), [Material-UI](http://www.material-ui.com/) components [PHP].
 
-This is the very first version, feel free to use for any app. Contributions are always welcome!
-
-Demo
-----
-
-You can find a demo [here](http://rafaelhz.github.io/react-material-admin-template).
-
+This is the first version.
 
 Installation / Running
 ----------------------
@@ -23,4 +17,4 @@ Installation / Running
 
 License
 -------
-MIT
+Te
