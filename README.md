@@ -1,7 +1,7 @@
 React Ui-Material
 ================================
 
-This is a simple Shoes website using [React](https://facebook.github.io/react/), [Material-UI](http://www.material-ui.com/) components [PHP].
+This is a simple Shoes website using [React](https://facebook.github.io/react/), [Material-UI](http://www.material-ui.com/) components and PHP.
 
 This is the first version.
 
@@ -16,5 +16,3 @@ Installation / Running
 
 
 License
--------
-Te
