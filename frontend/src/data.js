@@ -15,6 +15,16 @@ const data = {
     { text: 'Table Page', icon: <GridOn/>, link: '/table' },
     { text: 'Login Page', icon: <PermIdentity/>, link: '/login' }
   ],
+  managementModules: [
+    { text: 'Categories', icon: <FeaturedPlayList color="white"/>, link: '/categories' },
+    { text: 'Invoices', icon: <Receipt color="white"/>, link: '/invoices' },
+    { text: 'Products', icon: <Redeem color="white"/>, link: '/products' },
+    { text: 'Shop Information', icon: <InfoOutline color="white"/>, link: '/shop-info' },
+    { text: 'Feedback', icon: <Feedback color="white"/>, link: '/feedbacks' },
+    { text: 'Sizes', icon: <FormatSize color="white"/>, link: '/sizes' },
+    { text: 'Users', icon: <AccountBox color="white"/>, link: '/users' },
+    { text: 'Roles', icon: <Accessibility color="white"/>, link: '/roles' },
+  ],
   tablePage: {
     items: [
       {id: 1, name: 'Product 1', price: '$50.00', category: 'Category 1'},
